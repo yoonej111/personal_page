@@ -48,6 +48,15 @@
 #project .class_project {height: 500px; background-color: lemonchiffon;}
 #project .class_project h1 {text-align:left; font-size: 35px; }
 
+#resume {position: relative;}
+#resume .stack {height: 500px; background-color: bisque;}
+#resume .stack h1 {text-align:left; font-size: 35px; }
+
+
+#resume .experience {height: 500px; background-color: lemonchiffon;}
+#resume .experience h1 {text-align:left; font-size: 35px; }
+
+
 /* 화면 너비 0 ~ 600 px */
 @media (max-width: 900px)
 {
